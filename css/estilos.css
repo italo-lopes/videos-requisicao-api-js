@@ -35,9 +35,10 @@ body {
 }
 
 .logo {
-    background-image: url(../img/cabecalho/Logo.png);
+    background-image: url(../img/cabecalho/Logo2.png);
+    background-size: 33%;
     background-repeat: no-repeat;
-    padding: 15px 65px;
+    padding: 22px 65px;
     cursor: pointer;
 }
 

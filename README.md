@@ -17,3 +17,8 @@
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
+
+
+## TA FALTANDO 
+* customizar essas mensagens de erro
+* criar novas abordagens no projeto para preveni-los
