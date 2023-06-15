@@ -19,6 +19,10 @@
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
 
 
+## Insatalar
+* npm install -g json-server 
+* cd caminho/do/seu/projeto - 
+* json-server --watch db.json - Com o terminal apontando para o diretório correto, você pode iniciar o JSON Server 
 ## TA FALTANDO 
 * customizar essas mensagens de erro
-* criar novas abordagens no projeto para preveni-los
+* criar novas abordagens no projeto para preveni-los 
